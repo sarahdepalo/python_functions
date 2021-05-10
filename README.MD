@@ -1,0 +1,1 @@
+Contains solutions to exercises done during class to gain a better understanding of how functions work in python. 
